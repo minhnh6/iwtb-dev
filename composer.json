@@ -8,5 +8,8 @@
             "name": "MinhNh",
             "email": "huy.cit@gmail.com"
         }
-    ]
+    ],
+ "require": {
+        "iwtb-dev/venda": "*"
+    }
 }
