@@ -1,0 +1,12 @@
+{
+ "name" : "iwtb-dev",
+    "description": "Codeigniter Source Template MinhNh",
+    "keywords": ["codeigniter", "php", "template","MinhNH6FPT"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MinhNh",
+            "email": "huy.cit@gmail.com"
+        }
+    ]
+}

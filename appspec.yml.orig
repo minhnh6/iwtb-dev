@@ -1,0 +1,30 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+<<<<<<< HEAD
+    destination: /var/www/html/iwtb-minh
+permissions:
+  - object: /var/www/html/iwtb-minh
+=======
+    destination: /var/www/html/iwtb-shuvo
+permissions:
+  - object: /var/www/html/iwtb-shuvo
+>>>>>>> milestone3
+    pattern: "**"
+    owner: apache
+    group: www
+    mode: 755
+    type: 
+      - directory
+<<<<<<< HEAD
+  - object: /var/www/html/iwtb-minh
+=======
+  - object: /var/www/html/iwtb-shuvo
+>>>>>>> milestone3
+    pattern: "**"
+    owner: apache
+    group: www
+    mode: 644
+    type:
+      - file

@@ -1,0 +1,20 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /var/www/html/iwtb-shuvo
+permissions:
+  - object: /var/www/html/iwtb-shuvo
+    pattern: "**"
+    owner: apache
+    group: www
+    mode: 755
+    type: 
+      - directory
+  - object: /var/www/html/iwtb-shuvo
+    pattern: "**"
+    owner: apache
+    group: www
+    mode: 644
+    type:
+      - file

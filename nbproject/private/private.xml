@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/views/contractor/my_e_card.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/config/database.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/controllers/contractor/index.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/views/contractor/registration_step_three.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/models/user_model.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/views/email_template/contractor_membership_upgrade.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/controllers/index.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/views/contractor_signup_template.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/views/contractor/template/header.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/views/contractor/upgrade_membership.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/core/AppController.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/config/config.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/controllers/contractor/recurringPaymentChecker.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/views/contractor/template/sidebar.php</file>
+            <file>file:/C:/xampp/htdocs/iwtb-git/application/libraries/app_eway_payment.php</file>
+        </group>
+    </open-files>
+</project-private>
